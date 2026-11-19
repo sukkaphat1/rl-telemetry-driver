@@ -42,3 +42,11 @@ sc start RltTele
 * Read-only: no writes, no hooks, no callbacks.
 * Works on processes whose handles are protected by an anti-cheat.
 * Signed releases are produced from this source; see the releases page.
+
+## Download and code signing
+
+Release binaries are published on the [releases page](https://github.com/sukkaphat1/rl-telemetry-driver/releases).
+
+Release binaries are signed with a certificate provided by
+[SignPath Foundation](https://signpath.org), which offers free code signing for
+open source software.
